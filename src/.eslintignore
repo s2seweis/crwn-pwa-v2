@@ -1,0 +1,5 @@
+# .eslintignore
+src/App.js
+src/components/cart-dropdown/cart-dropdown.component.tsx
+src/routes/shop/shop.component.tsx
+src/utils/firebase/firebase.utils.ts
